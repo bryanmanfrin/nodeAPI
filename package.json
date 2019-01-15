@@ -1,0 +1,37 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "node api to fetch youtube videos of own channel",
+  "main": "api/server.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node api/server.ts",
+    "start": "nodemon ./dist/server.js",
+    "prod": "npm run build && npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.12",
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.8",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@types/bcrypt": "^3.0.0",
+    "@types/cors": "^2.8.4",
+    "@types/express": "^4.16.0",
+    "@types/jsonwebtoken": "^8.3.0",
+    "@types/lodash": "^4.14.119",
+    "@types/mongoose": "^5.3.7",
+    "bcrypt": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "googleapis": "^35.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.2",
+    "ts-node": "^7.0.1"
+  }
+}
