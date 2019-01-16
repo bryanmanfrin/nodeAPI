@@ -6,7 +6,7 @@
         "target": "es6",
         "sourceMap": true,
         "outDir": "dist",
-        "baseUrl": "./api",
+        "baseUrl": ".",
         "lib": ["es2015"]
     },
     "include": [
