@@ -1,1 +1,0 @@
-{"version":3,"file":"video.mongo.js","sourceRoot":"","sources":["../../../api/models/mongodb/video.mongo.ts"],"names":[],"mappings":";;;;;;;;;AAAA,mDAAoC;AAEpC,MAAM,MAAM,GAAG,QAAQ,CAAC,MAAM,CAAC;AAC/B,MAAM,gBAAgB,GAAG,IAAI,MAAM,CAAC;IAChC,KAAK,EAAE,MAAM;IACb,WAAW,EAAE,MAAM;CACtB,CAAC,CAAC;AAEH,MAAM,CAAC,OAAO,GAAG,QAAQ,CAAC,KAAK,CAAC,OAAO,EAAE,gBAAgB,EAAE,QAAQ,CAAC,CAAC"}

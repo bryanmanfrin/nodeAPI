@@ -1,1 +1,0 @@
-{"version":3,"file":"user.js","sourceRoot":"","sources":["../../../api/models/mongodb/user.ts"],"names":[],"mappings":";;;;;;;;;AAAA,mDAAoC;AAEpC,MAAM,MAAM,GAAG,QAAQ,CAAC,MAAM,CAAC;AAC/B,MAAM,UAAU,GAAG,IAAI,MAAM,CAAC;IAC1B,KAAK,EAAE,MAAM;IACb,QAAQ,EAAE,MAAM;CACnB,CAAC,CAAA;AAEF,MAAM,CAAC,OAAO,GAAG,QAAQ,CAAC,KAAK,CAAC,MAAM,EAAE,UAAU,EAAE,OAAO,CAAC,CAAC"}
