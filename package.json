@@ -5,6 +5,7 @@
   "main": "api/server.ts",
   "scripts": {
     "build": "tsc",
+    "heroku-postbuild": "npm run build-ts",
     "dev": "ts-node api/server.ts",
     "start": "nodemon ./dist/server.js",
     "prod": "npm run build && npm run start"
